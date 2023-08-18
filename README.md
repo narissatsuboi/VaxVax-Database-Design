@@ -1,4 +1,3 @@
-![banner](https://i.imgur.com/qpNQXq4.jpg)
 # VaxVax-Database-Design
 
 Relational database design and MySQL implementation for a conceptual COVID-19 Vaccination Database that aggregates government and private citizen vaccination data. 
@@ -6,11 +5,9 @@ Relational database design and MySQL implementation for a conceptual COVID-19 Va
 ## Database Design
 **Relational entity relationship diagram**
 ![](https://i.imgur.com/Y2nIvr8.jpg)
-![](https://i.imgur.com/Y2nIvr8.jpg)
 
 ### External models for government entities and users
 ![](https://i.imgur.com/VHg0ArC.jpg)
-![](https://i.imgur.com/vtUj6mZ.jpg)
 
 ### Example Queries
 For all queries: [`vaxvaxquery.sql`](vaxvaxquery.sql)
